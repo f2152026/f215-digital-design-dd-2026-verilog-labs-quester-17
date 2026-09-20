@@ -41,3 +41,5 @@ module tb;
     $monitor($time, " op=%b a=%d b=%d | result=%d", t_op, t_a, t_b, t_result);
 
 endmodule
+
+
