@@ -20,4 +20,4 @@ module comp2 (
   assign GT = (A >  B);
   assign LT = (A <  B);
 
-endmodule
+endmodule  
